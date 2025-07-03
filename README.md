@@ -19,8 +19,8 @@ Analyze **monthly revenue and order volume** using SQL aggregation to understand
 - Sorted output for clear trend analysis.
  
 ## Observations
-The year 2020 recorded the highest total revenue (₹5,35,246) with 784 unique orders, indicating strong sales performance.
-Revenue decreased in the subsequent years (2021, 2022), with a visible drop in both total revenue and order volumes.
+- The year 2020 recorded the highest total revenue (₹5,35,246) with 784 unique orders, indicating strong sales performance.
+- Revenue decreased in the subsequent years (2021, 2022), with a visible drop in both total revenue and order volumes.
 
 ## Deliverables
 - `Task6 sales_trend_analysis.sql` - (SQL script with analysis query)
