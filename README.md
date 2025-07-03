@@ -6,7 +6,7 @@ Analyze **monthly revenue and order volume** using SQL aggregation to understand
 ## Dataset
 - Table: `online_sales`
 - Columns used: `order_id`, `order_date`, `product_id`, `amount`, `year`, `month`
-- `Sales.csv`- Dataset
+- Dataset: `Sales.csv`
 
 ## Tools
 - MySQL Workbench
