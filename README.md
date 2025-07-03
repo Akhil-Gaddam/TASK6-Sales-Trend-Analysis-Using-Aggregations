@@ -23,8 +23,8 @@ Analyze **monthly revenue and order volume** using SQL aggregation to understand
 - Revenue decreased in the subsequent years (2021, 2022), with a visible drop in both total revenue and order volumes.
 
 ## Deliverables
-- `Task6 sales_trend_analysis.sql` - (SQL script with analysis query)
-- `Task6 sales_trend_analysis_results.csv` - (results table with output)
+- `TASK 6 - Sales Trend Analysis.sql` - (SQL script with analysis query)
+- `TASK 6 - Sales Trend Analysis_Results.csv` - (results table with output)
 
 ## Learning
 - Learned and Practiced SQL aggregation, grouping, and sorting.
